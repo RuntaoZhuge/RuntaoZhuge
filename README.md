@@ -6,7 +6,7 @@
 
 My name is Max Zhuge, a happy software engineer currently residing in the beautiful city of Adelaide. I am passionate about creating software that makes people's lives easier, more efficient, and more enjoyable. Currently, I'm exploring opportunities where I can apply my technical skills and contribute to a team that values innovation and growth.
 
-### My GitHub Stats 📈
+### My GitHub Stats (My old account was gone, so this status is getting built up)📈
 
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuntaoZhuge&show_icons=true&theme=radical)
 
