@@ -8,8 +8,9 @@ My name is Max Zhuge, a happy software engineer currently residing in the beauti
 
 ### My GitHub Stats (My old account was gone, so this status is getting built up)📈
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuntaoZhuge&show_icons=true&theme=radical&layout=donut)
+
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuntaoZhuge&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuntaoZhuge&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Fun Fact About Pandas 🐼 (I love pandas)
 
