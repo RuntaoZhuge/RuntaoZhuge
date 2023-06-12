@@ -18,7 +18,7 @@ Did you know that a newborn panda is about the size of a stick of butter—about
 
 If you're interested in collaborating on a project, have any questions, or simply want to chat, feel free to reach out to me.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/max-zhuge/)
+- [![Linkedin Badge](https://img.shields.io/badge/-Max_Zhuge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/max-zhuge/)](https://www.linkedin.com/in/max-zhuge/) 
 - 📧 Email: zhugeruntao@gmail.com
 
 Remember, every day brings new opportunities to learn and grow. Stay curious, and happy coding!
