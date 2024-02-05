@@ -4,7 +4,7 @@
 **RuntaoZhuge/RuntaoZhuge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-My name is Max Zhuge, a happy software engineer currently residing in the beautiful city of Adelaide. I am passionate about creating software that makes people's lives easier, more efficient, and more enjoyable. Currently, I'm exploring opportunities where I can apply my technical skills and contribute to a team that values innovation and growth.
+My name is Max Zhuge, a happy senior software engineer currently residing in the beautiful city of Adelaide. I am passionate about creating software that makes people's lives easier, more efficient, and more enjoyable. Currently, I'm exploring opportunities where I can apply my technical skills and contribute to a team that values innovation and growth.
 
 ### My GitHub Stats (My old account was gone, so this status is getting built up)📈
 
